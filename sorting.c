@@ -2,7 +2,7 @@
 
 int main(void){
     
-    printf("Hello WSL!\n");
+    printf("Hello WSL & github!\n");
 
     return 0;
 
